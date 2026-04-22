@@ -4,7 +4,7 @@ A retro-themed egg timer built with modern web technologies. This application al
 
 ---
 
-## 📌 Features
+## Features
 
 - Real-time countdown timer  
 - Three egg presets:
@@ -17,7 +17,7 @@ A retro-themed egg timer built with modern web technologies. This application al
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Interface
 <img width="1914" height="942" alt="ui_main" src="https://github.com/user-attachments/assets/99ecd7c3-c84e-4bb3-bce3-37a7d239f485" />
@@ -30,7 +30,7 @@ A retro-themed egg timer built with modern web technologies. This application al
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Frontend: React (with Hooks)  
 - Build Tool: Vite  
@@ -40,7 +40,7 @@ A retro-themed egg timer built with modern web technologies. This application al
 
 ---
 
-## 🚀 Getting Started (Run Locally)
+## Getting Started (Run Locally)
 
 ### 1. Clone the Repository
 ```bash
@@ -68,7 +68,7 @@ http://localhost:5173/
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - Make sure Node.js (v18 or higher) is installed  
 - Do not mix package managers (npm, pnpm, yarn)  
@@ -94,8 +94,3 @@ src/
 │       └── sounds.ts
 └── styles/
 ```
----
-
-## 📄 License
-
-This project is for academic and educational purposes.
